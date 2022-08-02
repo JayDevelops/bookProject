@@ -1,0 +1,95 @@
+
+[
+    {
+        "id": 1,
+        "name": "Unlocking Android",
+        "category": "Education",
+        "authorName": "John Cunningham",
+        "price": "$13.99",
+        "description": "Unlocking Android: A Developer's Guide provides concise, hands-on instruction for the Android operating system and development tools. This book teaches important architectural concepts in a straightforward writing style and builds on this with practical and useful examples throughout.",
+        "imageName": "unlockingAndroid",
+        "isFavorite": true
+      },{
+        "id": 2,
+        "name": "Hunger Games",
+        "category": "Novel",
+        "authorName": "Suzanne Collins",
+        "price": "$14.99",
+        "description": "In what was once North America, the Capitol of Panem maintains its hold on its 12 districts by forcing them each to select a boy and a girl, called Tributes, to compete in a nationally televised event called the Hunger Games. Every citizen must watch as the youths fight to the death until only one remain. District 12 Tribute Katniss Everdeen (Jennifer Lawrence) has little to rely on, other than her hunting skills and sharp instincts, in an arena where she must weigh survival against love.",
+        "imageName": "hungerGames",
+        "isFavorite": true
+    },{
+        "id": 3,
+        "name": "Divergent",
+        "category": "Novel",
+        "authorName": "Suzanne Collins",
+        "price": "$14.99",
+        "description": "Tris Prior (Shailene Woodley) lives in a futuristic world in which society is divided into five factions. As each person enters adulthood, he or she must choose a faction and commit to it for life. Tris chooses Dauntless -- those who pursue bravery above all else. However, her initiation leads to the discovery that she is a Divergent and will never be able to fit into just one faction. Warned that she must conceal her status, Tris uncovers a looming war which threatens everyone she loves.",
+        "imageName": "divergentBook",
+        "isFavorite": false
+    },{
+        "id": 4,
+        "name": "Flex on Java",
+        "category": "Education",
+        "authorName": "Bernerd Allmon",
+        "price": "$25.99",
+        "description": "A beautifully written book that is a must-have for every Java Developer. Ashish Kulkarni, Technical Director, E-Business Software Solutions Ltd.",
+        "imageName": "javaBook",
+        "isFavorite": false
+    },{
+        "id": 5,
+        "name": "Mobile Agents",
+        "category": "Education",
+        "authorName": "Benjamin Riley",
+        "price": "$38.99",
+        "description": "Mobile Agents is the first book to give the reader the ability to create and use powerful mobile agents on the Internet.",
+        "imageName": "mobileagents",
+        "isFavorite": false
+    },{
+        "id": 6,
+        "name": "Eat Pray Love",
+        "category": "Novel",
+        "authorName": "John Jones",
+        "price": "$13.99",
+        "description": "sample text sample text sample text sample text",
+        "imageName": "eatpraylove",
+        "isFavorite": false
+    },{
+        "id": 7,
+        "name": "Home Cooking",
+        "category": "Cooking",
+        "authorName": "Gordon Ramsay",
+        "price": "$19.99",
+        "description": "Based on a new cooking show, this book will give experienced as well as novice cooks the desire, confidence and inspiration to get cooking. Ramsay will offer simple, accessible recipes with a 'wow' factor. Gordon has travelled the world from India and the Far East to LA and Europe, and the recipes in this book will draw all these culinary influences together to show us simple, vibrant and delicious recipes that reflect the way we eat today. ",
+        "imageName": "homecooking",
+        "isFavorite": false
+    }, {
+        "id": 8,
+        "name": "Calculus",
+        "category": "Education",
+        "authorName": "James Stewart",
+        "price": "$69.99",
+        "description": "sample text sample text sample text sample text sample text sample text sample text sample text",
+        "imageName": "calculusbook",
+        "isFavorite": false
+    }, {
+        "id": 9,
+        "name": "The Big Short",
+        "category": "Novel",
+        "authorName": "Michael Lewis",
+        "price": "$12.99",
+        "description": "sample text sample text sample text sample text sample text sample text sample text sample text",
+        "imageName": "bigshort",
+        "isFavorite": false
+    }, {
+        "id": 10,
+        "name": "The End is Always Near",
+        "category": "Education",
+        "authorName": "Dan Carlin",
+        "price": "$13.99",
+        "description": "sample text sample text sample text sample text sample text sample text sample text sample text",
+        "imageName": "theendbook",
+        "isFavorite": false
+    }
+]
+
