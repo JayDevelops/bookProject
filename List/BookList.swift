@@ -61,7 +61,6 @@ struct BookList: View {
                 }
             }
         }
-        //use the user profile setting on initial load for preferred genre
     }
 }
 

@@ -20,8 +20,9 @@ struct ContentView: View {
     
     var body: some View {
         
+        //profile view persists across the featured and book list tab
         NavigationView {
-            TabView {
+            TabView(selection: $selection) {
                 CategoryHome()
                     .tabItem {
                         Label("Featured", systemImage: "star")
@@ -33,6 +34,7 @@ struct ContentView: View {
                     }
                     .tag(Tab.list)
             }
+            .navigationTitle(selection == Tab.featured ? "Featured" : "Book List")
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading){
                     Text("G6 Book Store").font(.title).bold()
